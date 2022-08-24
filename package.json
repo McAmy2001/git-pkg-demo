@@ -1,6 +1,6 @@
 {
-  "name": "@mcamy2001/github-pkg-demo",
-  "repository": "git://github.com/mcamy2001/github-pkg-demo.git",
+  "name": "@McAmy2001/github-pkg-demo",
+  "repository": "git://github.com/McAmy2001/github-pkg-demo.git",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
